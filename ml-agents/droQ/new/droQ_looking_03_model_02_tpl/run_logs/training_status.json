@@ -1,0 +1,236 @@
+{
+    "Vertebate": {
+        "checkpoints": [
+            {
+                "steps": 499645,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-499645.onnx",
+                "reward": null,
+                "creation_time": 1782234948.2068896,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-499645.pt"
+                ]
+            },
+            {
+                "steps": 999291,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-999291.onnx",
+                "reward": null,
+                "creation_time": 1782243363.709787,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-999291.pt"
+                ]
+            },
+            {
+                "steps": 1499740,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-1499740.onnx",
+                "reward": null,
+                "creation_time": 1782250053.5988157,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-1499740.pt"
+                ]
+            },
+            {
+                "steps": 1999673,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-1999673.onnx",
+                "reward": null,
+                "creation_time": 1782255495.3638113,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-1999673.pt"
+                ]
+            },
+            {
+                "steps": 2499912,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-2499912.onnx",
+                "reward": null,
+                "creation_time": 1782260947.112424,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-2499912.pt"
+                ]
+            },
+            {
+                "steps": 2999812,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-2999812.onnx",
+                "reward": null,
+                "creation_time": 1782266600.341726,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-2999812.pt"
+                ]
+            },
+            {
+                "steps": 3499591,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-3499591.onnx",
+                "reward": null,
+                "creation_time": 1782272157.250868,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-3499591.pt"
+                ]
+            },
+            {
+                "steps": 3999597,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-3999597.onnx",
+                "reward": null,
+                "creation_time": 1782277731.3206468,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-3999597.pt"
+                ]
+            },
+            {
+                "steps": 4499894,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-4499894.onnx",
+                "reward": null,
+                "creation_time": 1782283445.1240797,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-4499894.pt"
+                ]
+            },
+            {
+                "steps": 4999438,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-4999438.onnx",
+                "reward": null,
+                "creation_time": 1782289157.2100961,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-4999438.pt"
+                ]
+            },
+            {
+                "steps": 5499887,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-5499887.onnx",
+                "reward": null,
+                "creation_time": 1782295207.1910095,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-5499887.pt"
+                ]
+            },
+            {
+                "steps": 5999913,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-5999913.onnx",
+                "reward": null,
+                "creation_time": 1782301152.8154716,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-5999913.pt"
+                ]
+            },
+            {
+                "steps": 6499247,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-6499247.onnx",
+                "reward": null,
+                "creation_time": 1782307389.011188,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-6499247.pt"
+                ]
+            },
+            {
+                "steps": 6999999,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-6999999.onnx",
+                "reward": null,
+                "creation_time": 1782313634.7388213,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-6999999.pt"
+                ]
+            },
+            {
+                "steps": 7499355,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-7499355.onnx",
+                "reward": null,
+                "creation_time": 1782319909.106721,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-7499355.pt"
+                ]
+            },
+            {
+                "steps": 7999642,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-7999642.onnx",
+                "reward": null,
+                "creation_time": 1782326336.9524493,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-7999642.pt"
+                ]
+            },
+            {
+                "steps": 8499395,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-8499395.onnx",
+                "reward": null,
+                "creation_time": 1782332624.5209258,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-8499395.pt"
+                ]
+            },
+            {
+                "steps": 8999294,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-8999294.onnx",
+                "reward": null,
+                "creation_time": 1782339093.5642865,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-8999294.pt"
+                ]
+            },
+            {
+                "steps": 9499205,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-9499205.onnx",
+                "reward": null,
+                "creation_time": 1782345724.0240831,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-9499205.pt"
+                ]
+            },
+            {
+                "steps": 9999280,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-9999280.onnx",
+                "reward": null,
+                "creation_time": 1782352569.6189036,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-9999280.pt"
+                ]
+            },
+            {
+                "steps": 10499199,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-10499199.onnx",
+                "reward": null,
+                "creation_time": 1782358938.2584238,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-10499199.pt"
+                ]
+            },
+            {
+                "steps": 10999527,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-10999527.onnx",
+                "reward": null,
+                "creation_time": 1782365580.7453742,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-10999527.pt"
+                ]
+            },
+            {
+                "steps": 11499634,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-11499634.onnx",
+                "reward": null,
+                "creation_time": 1782371874.502908,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-11499634.pt"
+                ]
+            },
+            {
+                "steps": 11726659,
+                "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-11726659.onnx",
+                "reward": null,
+                "creation_time": 1782374903.1874986,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-11726659.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11726659,
+            "file_path": "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate.onnx",
+            "reward": null,
+            "creation_time": 1782374903.1874986,
+            "auxillary_file_paths": [
+                "D:\\ml-agents\\droQ\\new\\droQ_looking_03_model_02_tpl\\Vertebate\\Vertebate-11726659.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.1.2+cu121"
+    }
+}
