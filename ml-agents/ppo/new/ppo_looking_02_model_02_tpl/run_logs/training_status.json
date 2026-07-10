@@ -1,0 +1,209 @@
+{
+    "Vertebate": {
+        "checkpoints": [
+            {
+                "steps": 499950,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-499950.onnx",
+                "reward": 39.411306270102195,
+                "creation_time": 1782077527.327979,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-499950.pt"
+                ]
+            },
+            {
+                "steps": 999971,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-999971.onnx",
+                "reward": 170.91215598059225,
+                "creation_time": 1782079458.2821455,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-999971.pt"
+                ]
+            },
+            {
+                "steps": 1499758,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-1499758.onnx",
+                "reward": 687.832459286543,
+                "creation_time": 1782081364.73929,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-1499758.pt"
+                ]
+            },
+            {
+                "steps": 1999112,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-1999112.onnx",
+                "reward": 1547.7152863343556,
+                "creation_time": 1782083337.068175,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-1999112.pt"
+                ]
+            },
+            {
+                "steps": 2499860,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-2499860.onnx",
+                "reward": 2451.7696294330417,
+                "creation_time": 1782085392.5149584,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-2499860.pt"
+                ]
+            },
+            {
+                "steps": 2999984,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-2999984.onnx",
+                "reward": 2927.763086107042,
+                "creation_time": 1782087487.412367,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-2999984.pt"
+                ]
+            },
+            {
+                "steps": 3499646,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-3499646.onnx",
+                "reward": 3219.718734741211,
+                "creation_time": 1782089589.768709,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-3499646.pt"
+                ]
+            },
+            {
+                "steps": 3999674,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-3999674.onnx",
+                "reward": 4456.293481445313,
+                "creation_time": 1782091729.6610856,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-3999674.pt"
+                ]
+            },
+            {
+                "steps": 4499888,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-4499888.onnx",
+                "reward": 4637.052385602678,
+                "creation_time": 1782093859.484239,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-4499888.pt"
+                ]
+            },
+            {
+                "steps": 4999554,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-4999554.onnx",
+                "reward": 1221.2593383789062,
+                "creation_time": 1782096005.428145,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-4999554.pt"
+                ]
+            },
+            {
+                "steps": 5499031,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-5499031.onnx",
+                "reward": 109.26976013183594,
+                "creation_time": 1782098139.8820798,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-5499031.pt"
+                ]
+            },
+            {
+                "steps": 5999416,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-5999416.onnx",
+                "reward": null,
+                "creation_time": 1782100306.7281327,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-5999416.pt"
+                ]
+            },
+            {
+                "steps": 6499442,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-6499442.onnx",
+                "reward": 4271.3789892196655,
+                "creation_time": 1782102459.0996342,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-6499442.pt"
+                ]
+            },
+            {
+                "steps": 6999863,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-6999863.onnx",
+                "reward": 4068.4319807353772,
+                "creation_time": 1782104622.622887,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-6999863.pt"
+                ]
+            },
+            {
+                "steps": 7499282,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-7499282.onnx",
+                "reward": 3945.6539393833705,
+                "creation_time": 1782106777.622426,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-7499282.pt"
+                ]
+            },
+            {
+                "steps": 7999909,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-7999909.onnx",
+                "reward": 4043.7343611283736,
+                "creation_time": 1782108956.5199053,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-7999909.pt"
+                ]
+            },
+            {
+                "steps": 8499607,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-8499607.onnx",
+                "reward": 4747.048071289062,
+                "creation_time": 1782111152.283935,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-8499607.pt"
+                ]
+            },
+            {
+                "steps": 8999434,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-8999434.onnx",
+                "reward": 6938.982421875,
+                "creation_time": 1782140185.8384817,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-8999434.pt"
+                ]
+            },
+            {
+                "steps": 9499496,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-9499496.onnx",
+                "reward": 5280.741981483024,
+                "creation_time": 1782141344.8562558,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-9499496.pt"
+                ]
+            },
+            {
+                "steps": 9999175,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-9999175.onnx",
+                "reward": 6057.802997789885,
+                "creation_time": 1782142496.8721654,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-9999175.pt"
+                ]
+            },
+            {
+                "steps": 10412615,
+                "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-10412615.onnx",
+                "reward": 5504.161815936749,
+                "creation_time": 1782143457.0009165,
+                "auxillary_file_paths": [
+                    "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-10412615.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10412615,
+            "file_path": "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate.onnx",
+            "reward": 5504.161815936749,
+            "creation_time": 1782143457.0009165,
+            "auxillary_file_paths": [
+                "D:\\ml-agents\\ppo\\new\\ppo_looking_02_model_02_tpl\\Vertebate\\Vertebate-10412615.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.1.2+cu121"
+    }
+}
